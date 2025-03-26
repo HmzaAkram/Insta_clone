@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Header } from './components/Header';
 import { Home } from './pages/Home';
-import { Profile } from './pages/Profile.tsx';
+import { Profile } from './pages/Profile';
 import { Messages } from './pages/Messages.tsx';
 import { EditProfile } from './pages/EditProfile.tsx';
 import { Reels } from './pages/Reels.tsx';
